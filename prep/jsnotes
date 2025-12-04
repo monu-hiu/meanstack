@@ -130,7 +130,7 @@ let 1user      // cannot start with a number
 let user name  // cannot contain spaces
 
 const pi = 3.14
-the varible in future i dont want to change the value then you can use const keyword.
+the varible in future pi dont want to change the value then you can use const keyword.
 
 Datatypes in JavaScript
 
